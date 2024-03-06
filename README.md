@@ -17,6 +17,10 @@ There's some setup involved with linking the 4G hat's serial connection, and i'm
 
 [Mini wireless keyboard](https://www.amazon.com.au/Rii-Wireless-Full-Featured-Multimedia-Shortcuts/dp/B07D3JWVQV) Found this on amazon, it's not amazing for typing but it's got a touchpad which is really useful
 
+Battery pack that I found at a park, I'll see if I can find it online
+
+Generic hdmi cable that I cut in half and resoldered to shorten but it's not short enough, stay tuned for better solutions
+
 Optional: [Raspberry Pi Camera](https://raspberry.piaustralia.com.au/collections/cameras), there's a port for it in the case, and you can make a camera app pretty easily with raspistill commands
 
 
@@ -31,6 +35,11 @@ I used [this Core Electronics tutorial](https://core-electronics.com.au/guides/r
 ## Running the code
 You can set flask_sms.py to execute like an app, and it will open a terminal window and then a web browser. I wasn't sure how else to make a text-based interface, so the flask website will open and you'll choose a contact from the drop-down or all unread messages, there's also a page for all messages stored on the sim, but i have all messages being saved in the text file and deleted from the sim, so this will normally be empty.
 
+
+## Things I'm going to do
+Replace the sketchily shortened HDMI cable with a better option, maybe buy ports and solder them together
+
+Get Internet working
 
 ## This is what the phone looks like
 
