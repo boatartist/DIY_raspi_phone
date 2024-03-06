@@ -27,6 +27,11 @@ I definitely recommend using the [Waveshare Documentation](https://www.waveshare
 
 I used [this Core Electronics tutorial](https://core-electronics.com.au/guides/raspberry-pi-4g-gps-hat/) to setup the serial connection. You'll need to enable serial with sudo raspi-config, then you'll install minicom and so on.
 
+
+## Running the code
+You can set flask_sms.py to execute like an app, and it will open a terminal window and then a web browser. I wasn't sure how else to make a text-based interface, so the flask website will open and you'll choose a contact from the drop-down or all unread messages, there's also a page for all messages stored on the sim, but i have all messages being saved in the text file and deleted from the sim, so this will normally be empty.
+
+
 ## This is what the phone looks like
 
 ![phone1](https://github.com/boatartist/DIY_raspi_phone/blob/main/phone1.jpg)
