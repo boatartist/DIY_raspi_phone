@@ -17,6 +17,8 @@ There's some setup involved with linking the 4G hat's serial connection, and i'm
 
 [Mini wireless keyboard](https://www.amazon.com.au/Rii-Wireless-Full-Featured-Multimedia-Shortcuts/dp/B07D3JWVQV) Found this on amazon, it's not amazing for typing but it's got a touchpad which is really useful
 
+Optional: [Raspberry Pi Camera](https://raspberry.piaustralia.com.au/collections/cameras), there's a port for it in the case, and you can make a camera app pretty easily with raspistill commands
+
 This is what the phone looks like
 
 ![20240225_112724](https://github.com/boatartist/DIY_raspi_phone/assets/78235705/19b19c18-3456-445a-be5e-8e3358c40bc4)
