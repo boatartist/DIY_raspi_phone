@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <title>SMS with {{name}}</title>
+    </head>
+    <body>
+        <ul>
+            {% for text in prev_texts %}
+                <li>{{text}}</li>
+            {% endfor %}
+        </ul><br>
+        <form method='post'>
+            <input id='message' class='message' name='message' type='text' required>
+            <button type='submit'>Send text</button>
+        </form>
+    </body>
+</html>
