@@ -25,7 +25,7 @@ The 4G hat is connected by a serial connection to the raspberry pi through a USB
 To control the HAT through the serial connection, you use AT commands, which are commonly used in modems.
 I definitely recommend using the [Waveshare Documentation](https://www.waveshare.com/wiki/SIM7600E-H_4G_HAT) for research, or if you want to change the code. I haven't been able to get an internet connection yet, but there's a guide on there you can try.
 
-
+I used [this Core Electronics tutorial](https://core-electronics.com.au/guides/raspberry-pi-4g-gps-hat/) to setup the serial connection. You'll need to enable serial with sudo raspi-config, then you'll install minicom and so on.
 
 ## This is what the phone looks like
 
