@@ -7,6 +7,16 @@ I'll attach .stls for the case, which isn't amazing but it does have a hinge tha
 There's some setup involved with linking the 4G hat's serial connection, and i'm not 100% sure that it's the same for everyone, i've done a LOT of googling, but I'll put my process in at some point.
 
 
+## Link to products:
+
+[4G Hat from Core Electronics](https://core-electronics.com.au/waveshare-4g-hat-for-raspberry-pi-lte-cat-4-4g-3g-2g-gnss.html)
+
+[Raspberry Pi 3B+](https://core-electronics.com.au/raspberry-pi-3-model-b-plus.html) You could probably use a different pi but this is what I had
+
+[5-inch LCD Display](https://www.jaycar.com.au/5-inch-touchscreen-with-hdmi-and-usb/p/XC9024?pos=19&queryId=1e9a4a1daaf2ba708a8a63e453d139f2&sort=relevance&searchText=5%20inch) Also available elsewhere. I've had this for ages and it still hasn't turned into a touchscreen, there are probably better options
+
+[Mini wireless keyboard](https://www.amazon.com.au/Rii-Wireless-Full-Featured-Multimedia-Shortcuts/dp/B07D3JWVQV) Found this on amazon, it's not amazing for typing but it's got a touchpad which is really useful
+
 This is what the phone looks like
 
 ![20240225_112724](https://github.com/boatartist/DIY_raspi_phone/assets/78235705/19b19c18-3456-445a-be5e-8e3358c40bc4)
