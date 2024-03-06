@@ -21,5 +21,5 @@ Optional: [Raspberry Pi Camera](https://raspberry.piaustralia.com.au/collections
 
 This is what the phone looks like
 
-![20240225_112724](https://github.com/boatartist/DIY_raspi_phone/assets/78235705/19b19c18-3456-445a-be5e-8e3358c40bc4)
-![20240225_112735](https://github.com/boatartist/DIY_raspi_phone/assets/78235705/fcbab9cd-19ca-40d8-a1aa-6b2c591cc18b)
+![20240225_112724](https://github.com/boatartist/DIY_raspi_phone/phone1.jpg)
+![20240225_112735](https://github.com/boatartist/DIY_raspi_phone/phone2.jpg)
