@@ -19,7 +19,15 @@ There's some setup involved with linking the 4G hat's serial connection, and i'm
 
 Optional: [Raspberry Pi Camera](https://raspberry.piaustralia.com.au/collections/cameras), there's a port for it in the case, and you can make a camera app pretty easily with raspistill commands
 
-This is what the phone looks like
+
+## Using the mobile network
+The 4G hat is connected by a serial connection to the raspberry pi through a USB cable.
+To control the HAT through the serial connection, you use AT commands, which are commonly used in modems.
+I definitely recommend using the [Waveshare Documentation](https://www.waveshare.com/wiki/SIM7600E-H_4G_HAT) for research, or if you want to change the code. I haven't been able to get an internet connection yet, but there's a guide on there you can try.
+
+
+
+## This is what the phone looks like
 
 ![phone1](https://github.com/boatartist/DIY_raspi_phone/blob/main/phone1.jpg)
 ![phone2](https://github.com/boatartist/DIY_raspi_phone/blob/main/phone2.jpg)
