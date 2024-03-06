@@ -1,1 +1,1 @@
-
+Texts to and from people will appear in this folder, with each chat sequence stored in "+phone_number.txt"
