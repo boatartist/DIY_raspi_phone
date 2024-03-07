@@ -38,6 +38,8 @@ You can set flask_sms.py to execute like an app, and it will open a terminal win
 
 ## Things I'm going to do
 Replace the sketchily shortened HDMI cable with a better option, maybe buy ports and solder them together
+I'm going to buy [this ribbon cable](https://littlebirdelectronics.com.au/products/diy-hdmi-cable-parts-10-cm-hdmi-ribbon-cable?_pos=2&_sid=8684cfa62&_ss=r) with [this](https://littlebirdelectronics.com.au/products/diy-hdmi-cable-parts-right-angle-r-bend-hdmi-plug-adapter?pr_prod_strat=e5_desc&pr_rec_id=291504d27&pr_rec_pid=8811102011681&pr_ref_pid=8811092508961&pr_seq=uniform) and [this](https://littlebirdelectronics.com.au/products/diy-hdmi-cable-parts-right-angle-l-bend-hdmi-plug-adapter?pr_prod_strat=e5_desc&pr_rec_id=de5ccbaa6&pr_rec_pid=8811097522465&pr_ref_pid=8811102011681&pr_seq=uniform)
+or two of [these](https://littlebirdelectronics.com.au/products/diy-hdmi-cable-parts-straight-hdmi-plug-adapter?pr_prod_strat=e5_desc&pr_rec_id=d0cdc2d81&pr_rec_pid=8811092508961&pr_ref_pid=8811097522465&pr_seq=uniform)
 
 Get Internet working
 
