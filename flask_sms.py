@@ -57,7 +57,7 @@ def user(user):
                 info = info.split(',')
                 description = f'{info[4][1:]} {info[5][:-5]} {users.get(info[2][1:-1], "Unknown")} ({info[2]})'
                 f = open(f'/home/pi/Desktop/sms_flask/users/{info[2][1:-1]}.txt', 'a')
-                f.writelines([f'{description}: {texts[text_n+1]}'])
+                f.writelines([f'\n{description}: {texts[text_n+1]}'])
                 f.close()
                 if user in texts[text_n]:
                     prev_texts.append(f'{description}: {texts[text_n+1]}')
@@ -84,7 +84,7 @@ def unread():
                     description = f'{info[4][1:]} {info[5][:-5]} {users.get(info[2][1:-1], "Unknown")} ({info[2]})'
                     texts.append(f'{description}: {new_texts[text_n+1]}')
                     f = open(f'/home/pi/Desktop/sms_flask/users/{info[2][1:-1]}.txt', 'a')
-                    f.writelines([f'{description}: {texts[text_n+1]}'])
+                    f.writelines([f'\n{description}: {texts[text_n+1]}'])
                     f.close()
                 except:
                     break
