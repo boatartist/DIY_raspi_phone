@@ -19,7 +19,7 @@ There's some setup involved with linking the 4G hat's serial connection, and i'm
 
 [Battery pack that I found at a park](https://www.jbhifi.com.au/products/cygnett-boost-v2-5000mah-power-bank-black)
 
-Generic hdmi cable that I cut in half and resoldered to shorten but it's not short enough, stay tuned for better solutions
+[Generic hdmi cable](https://www.bigw.com.au/product/tonic-hdmi-cable-1-5m-black/p/101650) that I cut in half and resoldered to shorten but it's not short enough, stay tuned for better solutions
 
 Just bought 2 of [these HDMI plugs](https://www.jaycar.com.au/gold-plated-pcb-mount-hdmi-plug/p/PP0941) from Jaycar and i'm gonna try soldering them to make a new, shorter HDMI cable, not expecting this to work but we'll see
 
