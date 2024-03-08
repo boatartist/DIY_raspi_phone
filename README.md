@@ -17,7 +17,7 @@ There's some setup involved with linking the 4G hat's serial connection, and i'm
 
 [Mini wireless keyboard](https://www.amazon.com.au/Rii-Wireless-Full-Featured-Multimedia-Shortcuts/dp/B07D3JWVQV) Found this on amazon, it's not amazing for typing but it's got a touchpad which is really useful
 
-Battery pack that I found at a park, I'll see if I can find it online
+[Battery pack that I found at a park](https://www.jbhifi.com.au/products/cygnett-boost-v2-5000mah-power-bank-black)
 
 Generic hdmi cable that I cut in half and resoldered to shorten but it's not short enough, stay tuned for better solutions
 
