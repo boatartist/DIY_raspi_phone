@@ -21,6 +21,8 @@ Battery pack that I found at a park, I'll see if I can find it online
 
 Generic hdmi cable that I cut in half and resoldered to shorten but it's not short enough, stay tuned for better solutions
 
+Just bought 2 of [these HDMI plugs](https://www.jaycar.com.au/gold-plated-pcb-mount-hdmi-plug/p/PP0941) from Jaycar and i'm gonna try soldering them to make a new, shorter HDMI cable, not expecting this to work but we'll see
+
 Optional: [Raspberry Pi Camera](https://raspberry.piaustralia.com.au/collections/cameras), there's a port for it in the case, and you can make a camera app pretty easily with raspistill commands
 
 
